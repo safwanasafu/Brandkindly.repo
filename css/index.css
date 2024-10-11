@@ -1,0 +1,289 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.nav{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    display: flex;
+}
+.one{
+    display: block;
+    width: 230px;
+    height: 100px;
+    margin-left: 100px;
+}
+.nav ul{
+display: flex;
+margin-top: 30px;
+
+
+}
+.nav ul li{
+    margin-left: 35px;
+    list-style: none;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+.two{
+    display: block;
+    width: 70px;
+    margin-top: 50px;
+}
+.second{
+    width: 100%;
+    background-color: #dadffd;
+}
+.three{
+    width: 1250px;
+    border-radius: 30px;
+    margin-left: 145px;
+    margin-top: 30px;
+}
+.second h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 37px;
+    margin: 0;
+}
+.third{
+    width: 100%;
+    display: flex;
+    background-color: #dadffd;
+    height: 720px;
+    
+}
+.four{
+    width: 500px;
+    height: 550px;
+    margin-left: 190px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.content{
+    margin-top: 200px;
+    margin-left: 120px;
+}
+.content h1{
+    font-size: 25;
+}
+.content p{
+    font-size: 17px;
+    line-height: 30px;
+}
+.content button{
+    width: 300px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.fourth{
+   width: 100%;
+   height: 1300px;
+   background-color: #dadffd;
+}
+.vidio1{
+    display: block;
+    width: 1100px;
+    height: 570px;
+    border-radius: 20px;
+    margin-left: 200px;
+   
+    
+
+}
+.vidio{
+    display: block;
+    width: 1100px;
+    height: 570px;
+    border-radius: 20px;
+    margin-left: 200px;
+   
+    margin: auto;
+    margin-top: 60px;
+}
+.fifth{
+    width: 100%;
+    display: flex;
+    background-color: #dadffd;
+    height: 720px;
+}
+.five{
+    margin-left: 130px;
+    border-radius: 20px;
+    width: 490px;
+    height: 540px;
+    margin-top: 40px;
+}
+.content1{
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+.content1 h1{
+    font-size: 25;
+}
+.content1 p{
+    font-size: 17px;
+    line-height: 30px;
+}
+.content1 button{
+    width: 300px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.sixth{
+    width: 100%;
+    height: 400px;
+    background-color: #dadffd;
+}
+.note{
+    display: flex;
+    height: 130px;
+    width: 1140px;
+    border-radius: 14px;
+    background-color: black;
+    margin-left: 180px;
+}
+.note h1{
+    color: white;
+}
+.team{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.note h1{
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.team img{
+    display: block;
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.para{
+    width: 100%;
+    height: 500px;
+
+}
+.para p{
+  margin-left: 200px;
+  font-size: 18px;
+  line-height: 28px;
+}
+.seventh{
+    background-color: black;
+    width: 100%;
+    height: 190px;
+}
+.foot1{
+
+
+}
+.foot1 img{
+    margin-left: 210px;
+    margin-top: 70px;
+}
+.foot1 button{
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 25px;
+    font-size: 15px;
+    color: white;
+    font-weight: 300;
+    margin-left: 630px;
+    background-color: black;
+
+}
+.foot1 hr{
+    width: 1100px;
+    margin-top: 40px;
+}
+.fa-sharp fa-regular fa-location-dot{
+    color: blanchedalmond;
+}
+.foot2{
+    width: 100%;
+    background-color: black;
+    height: 600px;
+    
+
+
+}
+.pictur{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.pictur img{
+    display: block;
+    width: 30px;
+    margin-left: 17px;
+   
+}
+.total{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin: 0;
+    display: flex;
+    margin-left: 100px;
+}
+.flex{
+    color: white;
+    margin-left: 70px;
+}
+.flex h6{
+   margin-left: 40px; 
+}
+.flex a{
+    text-decoration: none;
+    color: white;
+    line-height: 30px;
+}
+.flex li{
+    list-style: none;
+    /* margin-left: 150px; */
+    
+}
+#uniq{
+    margin-top: 50px;
+}
+.line{
+    width: 1100px;
+    position: relative;
+    bottom: 190px;
+}
+span{
+    color: white;
+    font-size: 15px;
+    margin-left: 950px;
+    position: relative;
+    bottom: 150px;
+}
+
+
+
+
+
